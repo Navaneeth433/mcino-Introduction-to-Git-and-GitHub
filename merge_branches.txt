@@ -1,0 +1,11 @@
+theia@theia-navaneethkr6:/home/project/mcino-Introduction-to-G
+it-and-Github$ git cgit checkout main
+git merge bug-fix-typo
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+Updating e73cffd..b36ae37
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+theia@theia-navaneethkr6:/home/project/mcino-Introduction-to-G
+it-and-Github$ 
