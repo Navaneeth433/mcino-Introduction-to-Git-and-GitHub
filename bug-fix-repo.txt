@@ -1,0 +1,3 @@
+theia@theia-navaneethkr6:/home/project/mcino-Introduction-to-G
+it-and-Github$ curl curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/8092 | jq -r '.head.repo.clone_url'
+https://github.com/Navaneeth433/mcino-Introduction-to-Git-and-GitHub.git
