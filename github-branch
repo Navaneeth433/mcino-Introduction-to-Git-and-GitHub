@@ -1,0 +1,5 @@
+theia@theia-navaneethkr6:/home/project/mcino-Introduction-to-G
+it-and-Github$ git branch -vv
+* bug-fix-revert d83ad12 Revert "Fix typo in README footer year"
+  bug-fix-typo   b36ae37 Fix typo in README footer year
+  main           b36ae37 [origin/main: ahead 1] Fix typo in README footer year
